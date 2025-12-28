@@ -64,14 +64,15 @@ Building clean, scalable, and user-friendly web applications.
 ---
 
 ## 📊 GitHub Stats Dashboard
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tusharbansal&show_icons=true&theme=tokyonight" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharbansal&layout=compact&theme=tokyonight" height="160"/>
+| | |
+|---|---|
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vanii0002&theme=github_dark" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vanii0002&theme=github_dark" /> |
 
 </div>
+
+
 
 ---
 
